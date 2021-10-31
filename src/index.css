@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg_image{
+  background-image: url('./images/boston1.jpeg');
+  background-size: cover;
+  height: 750px;
+  color: #f5f5f5;
+  /* margin-top: -20%; */
+  margin-left: 3%;
+  margin-right: 3%;
+  border-radius: 10%;
+  /* filter: brightness(30%) */
+}
+.font4{
+  /* text-align: right; */
+  font-size:250%;
+  margin-top:5%;
+  /* margin-left: 30%; */
+  
+
+}

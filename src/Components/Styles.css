@@ -27,7 +27,7 @@ body {
      background-origin: padding-box;
      box-sizing: border-box;
      
-     background-size:1000px 500px;
+     background-size:1000px 700px;
      /* background-size:contain, cover; */
      filter: drop-shadow(0 0 18px rgb(13, 14, 13));
      
